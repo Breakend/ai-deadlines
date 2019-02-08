@@ -1,26 +1,15 @@
 
 ---
 
-- title: IJCAI
+- title: RLDM
   year: 2019
-  id: ijcai19
-  link: https://www.ijcai19.org/
-  deadline: '2019-02-25 23:59:59'
-  timezone: Etc/GMT+12
-  date: August 10-16, 2019
-  place: Macau, China
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 19, 2019. More info <a href=''https://www.ijcai19.org/call-for-papers.html''>here</a>.'
-
-- title: IROS
-  year: 2019
-  id: iros2019
-  link: https://www.iros2019.org/
+  id: rldm2019
+  link: https://www.rldm.org/
   deadline: '2019-03-01 23:59:59'
   timezone: America/Los_Angeles
-  date: November 3-9, 2019
-  place: Macau, China
-  sub: RO
+  date: July 7-10, 2019
+  place: Montreal, Canada
+  sub: ML
 
 - title: ACL
   year: 2019
@@ -44,38 +33,6 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 04, 2019. More info <a
     href=''http://auai.org/uai2019/cfp.php''>here</a>.'
 
-- title: ICCV
-  year: 2019
-  id: iccv19
-  link: http://iccv2019.thecvf.com/
-  deadline: '2019-03-22 23:59:00'
-  timezone: Etc/GMT
-  date: October 27 - November 3, 2019
-  place: Seoul, Korea
-  sub: CV
-
-- title: InterSpeech
-  year: 2019
-  id: interspeech19
-  link: https://www.interspeech2019.org/
-  deadline: '2019-03-29 23:59:59'
-  timezone: Etc/GMT+12
-  date: September 15-19, 2019
-  place: Graz, Austria
-  sub: SP
-
-- title: MICCAI
-  year: 2019
-  id: miccai2019
-  link: http://www.miccai2019.org/
-  deadline: '2019-04-02 23:59:59'
-  timezone: US/Pacific
-  date: October 13 - October 17, 2019
-  place: Shenzhen, China
-  sub: CV
-  note: '<b>NOTE</b>: Mandatory intention-to-submit registration on March 19. More
-    info <a href="http://www.miccai2019.org/calls/call-for-papers/">here</a>.'
-
 - title: ECML/PKDD
   year: 2019
   id: ecmlpkdd19
@@ -88,15 +45,15 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 29, 2019. More info <a
     href="https://ecmlpkdd2019.org/submissions/deadlines/">here</a>.'
 
-- title: BMVC
+- title: Compression Workshop CVPR
   year: 2019
-  id: bmvc19
-  link: https://bmvc2019.org
-  deadline: '2019-04-29 23:59:00'
-  timezone: America/Los_Angeles
-  date: September 9-12, 2019
-  place: Cardiff, Wales, UK
-  sub: CV
+  id: compress
+  link: https://www.compression.cc/callforpapers/
+  deadline: '2019-04-08 23:59:59'
+  timezone: Etc/GMT-8
+  date: June 15-21, 2019
+  place: "Long Beach, California"
+  sub: ML
 
 - title: EMNLP-IJCNLP
   year: 2019
@@ -128,144 +85,3 @@
   date: October 30 - November 1, 2019
   place: Osaka, Japan
   sub: RO
-
-- title: AAAI
-  year: 2019
-  id: aaai19
-  link: https://aaai.org/Conferences/AAAI-19/
-  deadline: '2018-09-05 23:59:59'
-  timezone: Etc/GMT+10
-  date: January 27 - February 1, 2019
-  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
-  sub: ML
-
-- title: ICRA
-  year: 2019
-  id: icra2019
-  link: https://icra2019.org//
-  deadline: '2018-09-15 23:59:59'
-  timezone: Etc/GMT
-  date: May 20-24, 2019
-  place: Montreal, Canada
-  sub: RO
-
-- title: ICLR
-  year: 2019
-  id: iclr19
-  link: http://iclr.cc/
-  deadline: '2018-09-27 17:59:59'
-  timezone: America/New_York
-  date: May 6-9, 2019
-  place: New Orleans, Louisiana, US
-  sub: ML
-
-- title: AES
-  year: 2019
-  id: aes2019
-  link: http://www.aes.org/conferences/2019/immersive/
-  deadline: '2018-10-01 23:59:59'
-  timezone: Etc/GMT
-  date: March 27-29, 2019
-  place: York, UK
-  sub: SP
-
-- title: AISTATS
-  year: 2019
-  id: aistats19
-  link: https://www.aistats.org/
-  deadline: '2018-10-04 23:59:59'
-  timezone: America/Los_Angeles
-  date: April 16-18, 2019
-  place: Naha, Okinawa, Japan
-  sub: ML
-
-- title: ICASSP
-  year: 2019
-  id: icassp2019
-  link: http://icassp2019.com/
-  deadline: '2018-10-29 23:59:59'
-  timezone: Etc/GMT
-  date: May 12-17, 2019
-  place: Brighton, UK
-  sub: SP
-
-- title: AAMAS
-  year: 2019
-  id: aamas19
-  link: http://aamas2019.encs.concordia.ca/
-  deadline: '2018-11-16 23:59:59'
-  timezone: Etc/GMT
-  date: May 13-17, 2019
-  place: Montreal, Canada
-  sub: ML
-
-- title: CVPR
-  year: 2019
-  id: cvpr19
-  link: http://cvpr2019.thecvf.com/
-  deadline: '2018-11-16 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 16-21, 2019
-  place: Long Beach, USA
-  sub: CV
-
-- title: NAACL
-  year: 2019
-  id: naacl19
-  link: http://naacl2019.org/
-  deadline: '2018-12-10 23:59:59'
-  timezone: Etc/GMT+12
-  date: June 2-7, 2019
-  place: Minneapolis, USA
-  sub: NLP
-
-- title: ICML
-  year: 2019
-  id: icml19
-  link: https://icml.cc/Conferences/2019
-  deadline: '2019-01-23 15:59:00'
-  timezone: America/Los_Angeles
-  date: June 10-15, 2019
-  place: Long Beach, USA
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 18, 2019. More info <a href=''https://icml.cc/Conferences/2019/CallForPapers''>here</a>.'
-
-- title: GECCO
-  year: 2019
-  id: gecco19
-  link: https://gecco-2019.sigevo.org/index.html/tiki-index.php
-  deadline: '2019-01-30 23:59:59'
-  timezone: Etc/GMT+10
-  date: July 13 - 17, 2019
-  place: Prague, Czech Republic
-  sub: ML
-
-- title: COLT
-  year: 2019
-  id: colt19
-  link: http://www.learningtheory.org/colt2019/
-  deadline: '2019-02-01 23:00:00'
-  timezone: America/New_York
-  date: June 25-28, 2019
-  place: Phoenix, AZ
-  sub: ML
-
-- title: RSS
-  year: 2019
-  id: rss19
-  link: http://www.roboticsconference.org/
-  deadline: '2019-02-01 23:59:00'
-  timezone: America/Los_Angeles
-  date: June 22-26, 2019
-  place: Freiburg, Germany
-  sub: RO
-
-- title: KDD
-  year: 2019
-  id: kdd19
-  link: https://www.kdd.org/kdd2019
-  deadline: '2019-02-03 23:59:59'
-  timezone: Etc/GMT+11
-  date: August 3-7, 2019
-  place: Anchorage, Alaska, USA
-  sub: DM
