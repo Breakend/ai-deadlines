@@ -3,7 +3,7 @@ description: Countdowns to personal conference deadline targets
 author: Peter Henderson
 
 domain: "breakend.github.io"
-baseurl: ""
+baseurl: "https://breakend.github.io/ai-deadlines"
 
 twitter_username: astro_pyotr
 twitter_hashtag: machinelearning
