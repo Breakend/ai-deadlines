@@ -51,3 +51,22 @@
   date: Jan 27, 2020
   place: Barcelona, Spain
   sub: ML
+
+- title: WWW
+  year: 2020
+  id: www2020
+  link: https://www2020.thewebconf.org/
+  deadline: '2019-10-14 17:59:59'
+  timezone: America/New_York
+  date: April 20-24, 2020
+  place: Taiwan, China
+  sub: NLP
+
+- title: AAMAS
+  year: 2020
+  link: https://aamas2020.conference.auckland.ac.nz/
+  deadline: '2019-11-15 17:59:59'
+  timezone: America/New_York
+  date: May 10-13, 2020
+  place: Auckland, New Zealand
+  sub: ML  
