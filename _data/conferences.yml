@@ -42,47 +42,6 @@
   place: San Diego, CA, United States
   sub: ML
 
-- title: ICLR
-  year: 2020
-  id: iclr20
-  link: http://iclr.cc/
-  deadline: '2019-09-25 17:59:59'
-  timezone: America/New_York
-  date: April 30, 2020
-  place: Addis Ababa, Ethiopia
-  sub: ML
-
-
-- title: AAAI
-  year: 2020
-  id: aaai20
-  link: https://aaai.org/Conferences/AAAI-20/
-  deadline: '2019-09-05 23:59:59'
-  timezone: UTC-10
-  date: February 7-12, 2020
-  place: New York, USA
-  sub: ML
-
-- title: ICRA
-  year: 2020
-  id: icra2020
-  link: https://icra2020.org/
-  deadline: '2019-09-15 23:59:59'
-  timezone: America/Los_Angeles
-  date: May 31-June 4, 2020
-  place: Paris, France
-  sub: RO
-
-- title: ALT
-  year: 2020
-  id: alt2020
-  link: http://alt2020.algorithmiclearningtheory.org/
-  deadline: '2019-09-20 16:59:59'
-  timezone: America/New_York
-  date: February 08-10, 2020
-  place: San Diego, CA, United States
-  sub: ML
-
 - title: FAT*
   year: 2020
   id: fat20
