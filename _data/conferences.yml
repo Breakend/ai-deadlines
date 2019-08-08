@@ -21,6 +21,16 @@
   date: 
   place: 
   sub: NLP
+
+- title: Tackling Climate Change with Machine Learning @ NeurIPS 2019
+  year: 2019
+  id: neurips2019ccc
+  link: https://www.climatechange.ai/NeurIPS2019_workshop.html
+  deadline: '2019-09-11 16:59:59'
+  timezone: Etc/PST
+  date: 
+  place: 
+  sub: NLP
   
   
 - title: AAAI
