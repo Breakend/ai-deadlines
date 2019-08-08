@@ -1,6 +1,7 @@
 
 ---
 
+
 - title: SysML
   year: 2020
   id: corl2020
@@ -10,6 +11,16 @@
   date: March 2 - March 4, 2019
   place: Austin, TX
   sub: ML
+
+- title: Emergent Communications Workshops at NeurIPS 2019
+  year: 2019
+  id: neurips2019emc
+  link: https://sites.google.com/view/emecom2019/important-dates?authuser=0
+  deadline: '2019-09-15 16:59:59'
+  timezone: Etc/PST
+  date: 
+  place: 
+  sub: NLP
   
   
 - title: AAAI
